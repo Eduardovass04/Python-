@@ -1,0 +1,9 @@
+
+for i in range(5):
+    print(f"Contador (for): {i}")
+
+# Loop while
+contador = 0
+while contador < 3:
+    print(f"Contador (while): {contador}")
+    contador += 1
