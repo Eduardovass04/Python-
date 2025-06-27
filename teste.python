@@ -1,0 +1,4 @@
+nome= "SPFC"
+t= 3
+
+print(f"{nome} tem {t} mundiais no total. ")
