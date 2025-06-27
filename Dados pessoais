@@ -1,0 +1,12 @@
+# Dados pessoais
+nome= "Eduardo"
+cidade= "Aroazes/PI"
+country= "Brasil"
+Curso= "Sistemas de informação"
+universidade= "UFPI"
+
+print(nome)
+print(cidade)
+print(country)
+print(Curso)
+print(universidade)
