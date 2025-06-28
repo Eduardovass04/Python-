@@ -1,0 +1,6 @@
+#Comparação
+vendas= 800
+if vendas> 1000:
+    print("Ganhou bonus:")
+else:
+    print("Não ganhou bonus:")
